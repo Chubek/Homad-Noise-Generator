@@ -10,6 +10,10 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
+*.db
+*.opendb
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
