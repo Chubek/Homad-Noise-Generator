@@ -15,14 +15,14 @@ BEGIN
 	"MIB8",
 	"eman",/* 'name' PINameProperty */
 	RSCS32(0),
-	RSCS32(8),
-	"\x06GLator\0", 
+	RSCS32(24),
+	"\x16Thoryvos Noise Machine\0", 
 
 	"MIB8",
 	"gtac", /* 'catg' PICategoryProperty */
 	RSCS32(0),
 	RSCS32(16),
-	"\x0FSample Plug-ins", 
+	"\x0FPartly Shaderly", 
 
 	"MIB8",
 	"4668", /* '8664' PIWin64X86CodeProperty */
@@ -69,8 +69,8 @@ BEGIN
 	"MIB8",
 	"ANMe",/* 'name' PINameProperty */
 	RSCS32(0),
-	RSCS32(12),
-	"\x0BADBE GLator", 
+	RSCS32(16),
+	"\x0DADBE Thoryvos\0\0", 
 
 	"MIB8",
 	0x6165464CL, /* 'aeFL' */

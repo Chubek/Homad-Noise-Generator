@@ -127,11 +127,11 @@ resource 'PiPL' (16000) {
 		},
 		
 		Name {
-			"GLator"
+			"Thoryvos Noise Machine"
 		},
 		
 		Category {
-			"Sample Plug-ins"
+			"Partly Shaderly"
 		},
 
 	
@@ -170,7 +170,7 @@ resource 'PiPL' (16000) {
 		},
 		
 		AE_Effect_Match_Name {
-			"ADBE GLator"
+			"ADBE Thoryvos"
 		},
 		
 		AE_Reserved_Info {

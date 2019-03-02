@@ -21,5 +21,5 @@ void main( void )
 	colourOut = vec4(colourOut.a * colourOut.r, colourOut.a * colourOut.g, colourOut.a * colourOut.b, colourOut.a);
 
 	// I got the blues
-	colourOut.g = sliderVal;
+	
 }
